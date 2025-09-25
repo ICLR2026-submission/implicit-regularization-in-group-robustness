@@ -1,0 +1,12 @@
+data/
+experiments/
+wandb/
+.DS_Store
+.venv/
+**/__pycache__/
+*.pt
+*.pkl
+notebooks/
+plots/
+myenv/
+req.txt
